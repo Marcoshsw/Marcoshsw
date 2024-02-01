@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1163108500726091876/1202458294736789574/Design_sem_nome.png?ex=65cd878e&is=65bb128e&hm=d7e1517cbc7e6486d213f19f47cafc24830f129350607dee9ff0a35204fb3e43&=&format=webp&quality=lossless&width=1024&height=198"  />
-</div>
+[![MasterHead](https://media.discordapp.net/attachments/1163108500726091876/1202458294736789574/Design_sem_nome.png?ex=65cd878e&is=65bb128e&hm=d7e1517cbc7e6486d213f19f47cafc24830f129350607dee9ff0a35204fb3e43&=&format=webp&quality=lossless&width=1024&height=198)](https://rishavchanda.io)
 
 ###
 
@@ -24,6 +22,8 @@
 <h1 align="center">Hello ;) im Marcos</h1>
 
 ###
+
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1163108500726091876/1202465968803020800/Design_sem_nome_1.png?ex=65cd8eb3&is=65bb19b3&hm=e06fbb503536af494b8990d7c7c20fa8cb612361ee0d3db8097e083dfd1cb207&=&format=webp&quality=lossless&width=434&height=430">
 
 <p align="left">📘 I'm currently learning: Java, C#, ImGui, CheatEngine<br><br>❓ Ask me about: C++, CSS, JavaScript, Python<br><br>📧 How to reach me: You can email me at marcoshsw48@gmail.com<br><br>🗣️ Languages: PT / EN</p>
 
