@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1163108500726091876/1202465968803020800/Design_sem_nome_1.png?ex=65cd8eb3&is=65bb19b3&hm=e06fbb503536af494b8990d7c7c20fa8cb612361ee0d3db8097e083dfd1cb207&=&format=webp&quality=lossless&width=434&height=430">
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1212262191542313050/1218034829665505300/Design_sem_nome_1.png?ex=66063255&is=65f3bd55&hm=599e79183045f1f013ee511d67a0f13286938537ec9489b7d189c348a54dd3c7&=&format=webp&quality=lossless&width=480&height=497">
 
 <p align="left">📘 I'm currently learning: Java, C#, ImGui, CheatEngine<br><br>❓ Ask me about: C++, CSS, JavaScript, Python<br><br>📧 How to reach me: You can email me at marcoshsw48@gmail.com<br><br>🗣️ Languages: PT / EN</p>
 
