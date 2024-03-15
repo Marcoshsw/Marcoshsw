@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/1163108500726091876/1202458294736789574/Design_sem_nome.png?ex=65cd878e&is=65bb128e&hm=d7e1517cbc7e6486d213f19f47cafc24830f129350607dee9ff0a35204fb3e43&=&format=webp&quality=lossless&width=1024&height=198)](https://rishavchanda.io)
+[![MasterHead]([https://media.discordapp.net/attachments/1163108500726091876/1202458294736789574/Design_sem_nome.png?ex=65cd878e&is=65bb128e&hm=d7e1517cbc7e6486d213f19f47cafc24830f129350607dee9ff0a35204fb3e43&=&format=webp&quality=lossless&width=1024&height=198](https://media.discordapp.net/attachments/1212262191542313050/1218031814996787321/Design_sem_nome.png?ex=66062f86&is=65f3ba86&hm=8f245519d5031bafff5d689840dcb8b34d45cd34c8a69f082612c57ae1e1fbdb&=&format=webp&quality=lossless&width=1024&height=198))](https://rishavchanda.io)
 
 ###
 
