@@ -1,29 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/1212262191542313050/1218031814996787321/Design_sem_nome.png?ex=6618a486&is=66062f86&hm=230a7cc1c8635323766a0fc0ca522a382150d9c1fea2f7eb713e1c8cefd47ac4&=&format=webp&quality=lossless&width=1024&height=198)](https://rishavchanda.io)
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCsj6wF5VRszAvEBuj5MvDKw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/marcoshsw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcoshsw.marcoshsw&right_color=blueviolet"  />
-</div>
-
-###
-
-<h1 align="center">Hello ;) im Marcos</h1>
-
-###
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Marcos+Hebert.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
@@ -52,9 +27,11 @@
 ### Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/cristinanevesb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:anacristinabezerra.neves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcoshsw.marcoshsw&right_color=blueviolet"  />
+  <a href="https://www.linkedin.com/in/marcos-assis-09533b320" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:marcos.hebert48@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
