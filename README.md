@@ -16,10 +16,7 @@ Nas horas vagas, desenvolvo projetos como Dev e estudo programação.
 
 Atualmente cursando graduação em Engenharia de Software.
 
-<br/>
-
 ### Languages and Tools:
-
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" /></a>
