@@ -3,6 +3,11 @@
 <br/>
 
 ## Heyyo, I'm Marcos Hebert</a>!
+
+<a href="https://www.linkedin.com/in/marcoshsw/" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://devicon-website.vercel.app/api/linkedin/plain.svg?color=%23FFFFFF" /></a>
+<a href="https://www.behance.net/marcoshsw" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://devicon-website.vercel.app/api/behance/plain.svg?color=%23FFFFFF" />
+<a href="https://instagram.com/marcoshsw" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" /></a>
+<br/>
 ### About Me
 Social Media Designer | Content Management | Visual Branding  
 Software Engineering Student
@@ -11,10 +16,7 @@ Nas horas vagas, desenvolvo projetos como Dev e estudo programação.
 
 Atualmente cursando graduação em Engenharia de Software.
 
-<a href="https://www.linkedin.com/in/marcoshsw/" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://devicon-website.vercel.app/api/linkedin/plain.svg?color=%23FFFFFF" /></a>
-<a href="https://www.behance.net/marcoshsw" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://devicon-website.vercel.app/api/behance/plain.svg?color=%23FFFFFF" />
-<a href="https://instagram.com/marcoshsw" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" /></a>
-
+<br/>
 
 ### Languages and Tools:
 
