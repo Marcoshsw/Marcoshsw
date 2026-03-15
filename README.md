@@ -1,4 +1,4 @@
-<img src="[https://ibb.co/zVgRXKx7](https://cdn.discordapp.com/attachments/1306709450601791607/1482779581353300108/cccc.png?">
+<img src="https://ibb.co/zVgRXKx7](https://cdn.discordapp.com/attachments/1306709450601791607/1482779581353300108/cccc.png?">
 <br/>
 <br/>
 
