@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1306709450601791607/1482779581353300108/cccc.png?">
+<img src="https://raw.githubusercontent.com/Marcoshsw/Marcoshsw/refs/heads/main/cccc.png">
 <br/>
 <br/>
 
