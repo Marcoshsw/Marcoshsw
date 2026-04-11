@@ -11,10 +11,10 @@
 ### About Me
 Social Media Designer | Content Management | Visual Branding  
 Software Engineering Student
-Atuo com criação de conteúdo para redes sociais, identidade visual e gestão de perfis digitais.  
-Nas horas vagas, desenvolvo projetos como Dev e estudo programação.
+I work with content creation for social networks, visual identity and digital profile management.  
+In my spare time, I develop projects as a Dev and study programming.
 
-Atualmente cursando graduação em Engenharia de Software.
+Currently studying for a degree in Software Engineering.
 
 ### Languages and Tools:
 
